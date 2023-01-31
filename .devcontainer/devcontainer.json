@@ -41,6 +41,6 @@
         "redhat.vscode-yaml",
         "samuelcolvin.jinjahtml"
     ],
-    "initializeCommand": "git submodule update --init",
+//     "initializeCommand": "git submodule update --init",
     "remoteUser": "vscode"
 }
